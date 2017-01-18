@@ -1,0 +1,2 @@
+# gwas_pipeline_plink_fastlmm
+使用plink将格式化的tped文件和tfam文件转化为可以使用的二进制bfiles，再使用fastlmm做gwas
